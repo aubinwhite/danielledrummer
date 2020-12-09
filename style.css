@@ -9,9 +9,12 @@ html {
 }
 
 body{
-background-color: #ff4600;
-background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/main/filestorage/background.png") repeat center fixed;
-background-size: cover;
+ background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/main/filestorage/background.png"); 
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: repeat;
+  background-size: cover; 
     text-align: center;
     font-family: 'Kalam', cursive;
 }
