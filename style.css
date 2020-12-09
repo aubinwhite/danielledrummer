@@ -10,9 +10,8 @@ html {
 
 body{
 background-color: #ff4600;
-background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/main/filestorage/orangedust.png") repeat center fixed;
+background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/main/filestorage/background.png") repeat center fixed;
 background-size: cover;
-min-height:100vh;
     text-align: center;
     font-family: 'Kalam', cursive;
 }
