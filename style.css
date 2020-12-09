@@ -43,6 +43,7 @@ background-image: url("");
     text-decoration:none;
     padding: 10px 20px;
     font-size:1.0rem;
+    font-color: white;
     border-radius:6px;
     box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
 } 
