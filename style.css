@@ -13,7 +13,7 @@ body{
  background-color: #cccccc;
  height: 600px;
  background-position: center;
- background-repeat: repeat;
+ background-repeat: no-repeat;
  background-size: cover;
  text-align: center;
  font-family: 'Source Serif Pro', serif;
