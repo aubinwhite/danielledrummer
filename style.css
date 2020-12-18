@@ -9,7 +9,7 @@ html {
 }
 
 body{
- background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/main/filestorage/background.png");
+ background-image: linear-gradient(to top, ##fb4f14 0%, #008000 100%);
  background-color: #cccccc;
  height: 600px;
  background-position: center;
@@ -39,7 +39,7 @@ a{
  margin:0 auto 15px auto;
  border: 2px solid black;
  display:block;
- background-image: linear-gradient(to top, ##fb4f14 0%, #008000 100%);
+ background-color: #008000;
  text-decoration:none;
  padding: 14px 20px;
  font-size:1.0rem;
