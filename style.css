@@ -10,11 +10,11 @@ html {
 }
 
 body{
- background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/starring.png");
+ background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/0183e6d374139cb3ae5411f5eef4c09a6adf1451/filestorage/background.svg);
  background-color: #fb4f14;
  height: 600px;
  background-position: center;
- background-repeat: repeat;
+ background-repeat: no-repeat;
  background-size: cover;
  text-align: center;
  font-family: 'Source Serif Pro', serif;
