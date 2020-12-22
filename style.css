@@ -10,8 +10,8 @@ html {
 }
 
 body{
- background-image: url("https://raw.githubusercontent.com/aubinwhite/nerdwiretec/master/filestorage/background.gif"); 
   background-color: #ff4d00; 
+  background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
   height: 600px; 
   background-position: center; 
   background-repeat: repeat;
