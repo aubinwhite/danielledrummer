@@ -1,77 +1,77 @@
 html {
- box-sizing: border-box;
- font-size:1.1rem;
- font-weight:600;
- color: #ffffff;
+    box-sizing: border-box;
+    font-size:1.1rem;
+    font-weight:600;
+    color: #ffffff;
 }
 
 *, *:before, *:after {
- box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 body{
- background-image: url("https://raw.githubusercontent.com/aubinwhite/danielledrummer/0183e6d374139cb3ae5411f5eef4c09a6adf1451/filestorage/background.png);
- background-color: #fb4f14;
- height: 600px;
- background-position: center;
- background-repeat: repeat;
- background-size: cover;
- text-align: center;
- font-family: 'Source Serif Pro', serif;
+ background-image: url("https://raw.githubusercontent.com/aubinwhite/nerdwiretec/master/filestorage/background.gif"); 
+  background-color: #22160a; 
+  height: 600px; 
+  background-position: center; 
+  background-repeat: repeat;
+  background-size: auto; 
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
 }
 
 .logo{
- padding: 14px 20px;
- width: 250px;
+    padding: 14px 20px;
+    width: 250px;
 }
 
-audio {
- max-width: 260px;
- border-radius: 6px;
- transform: scale(1.05);
- box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
- background-color: #333333;
- border: 2px solid #FFFF00;
+audio { 
+  max-width: 260px; 
+  border-radius: 6px;
+  transform: scale(1.05);
+  box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
+  background-color: #583415;
+  border: 2px solid #40E0D0;
 }
 
 a{
- color: #ffffff;
- max-width:400px;
- height: 50px;
- margin:0 auto 15px auto;
- border: 2px solid #FFFF00;
- display:block;
- background-color: #008000;
- text-decoration:none;
- padding: 14px 20px;
- font-size:1.0rem;
- border-radius: 6px;
- box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
-}
+    color: #583415;
+    max-width:400px;
+    height: 50px;
+    margin:0 auto 15px auto;
+    border: 2px solid #583415;
+    display:block;
+    background-color:#40E0D0;
+    text-decoration:none;
+    padding: 14px 20px;
+    font-size:1.0rem;
+    border-radius: 6px; 
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
+} 
 
-
+/* unvisited link */
 a:link {
- color: #ffffff;
+  color: #583415;
 }
 
-
+/* visited link */
 a:visited {
- color: #ffffff;
+  color: #583415;
 }
 
-
+/* mouse over link */
 a:hover {
- color: #fb4f14;
+  color: #ffffff;
 }
 
-
+/* selected link */
 a:active {
- color: #FFFF00;
-}
+  color: #583415;
+} 
 
 h2{
- font-size:1.0rem;
- text-transform: uppercase;
- font-weight: normal;
- letter-spacing: 3px;
+    font-size:1.0rem;
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 3px;
 }
