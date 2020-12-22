@@ -51,12 +51,12 @@ a{
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: #ffffff;
 }
 
 /* visited link */
 a:visited {
-  color: pink;
+  color: #ffffff;
 }
 
 /* mouse over link */
