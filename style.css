@@ -51,22 +51,22 @@ a{
 
 /* unvisited link */
 a:link {
-  color: #583415;
+  color: red;
 }
 
 /* visited link */
 a:visited {
-  color: #583415;
+  color: pink;
 }
 
 /* mouse over link */
 a:hover {
-  color: #ffffff;
+  color: blue;
 }
 
 /* selected link */
 a:active {
-  color: #583415;
+  color: purple;
 } 
 
 h2{
